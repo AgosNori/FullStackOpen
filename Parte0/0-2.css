@@ -1,0 +1,18 @@
+p{
+    color: red;
+}
+h1{
+    font-size: 20px;
+    font-weight: 200;
+    color: lightblue;
+}
+body{
+    width: 600px;
+    background-color: #2a2a2a;
+    border: 5px solid black;
+}
+img{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
